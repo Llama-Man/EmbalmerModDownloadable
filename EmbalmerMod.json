@@ -1,0 +1,17 @@
+{
+  "id": "EmbalmerMod",
+  "name": "The Embalmer",
+  "author": "9 mice",
+  "description": "Adds The Embalmer to Slay the Spire 2 - a preparer of the dead whose cards move along a Senet board, and the board does the fighting.",
+  "version": "v0.0.0",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.4.7"
+    }
+  ],
+  "affects_gameplay": true
+}
